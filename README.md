@@ -1,7 +1,7 @@
 ﻿# glassmorphism_signin_signup
  
  ### Requirements
- > Bootstrap 5.1.3 CSS & Bundle.Js CDN Link (** Grabe the starter template code ** Link is: <a href="https://getbootstrap.com/docs/5.1/getting-started/introduction/" target="_blank">Click Here</a>)
+ > Bootstrap 5.1.3 CSS & Bundle.Js CDN Link (**Grabe the starter template code** Link is: <a href="https://getbootstrap.com/docs/5.1/getting-started/introduction/" target="_blank">Click Here</a>)
 <br />
 
 
