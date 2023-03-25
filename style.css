@@ -22,6 +22,7 @@ a{
     --primary: #0cb9b9;
     --secondary: #dddddd;
     --tertiary: #a6a6a6;
+    --img-gradient: linear-gradient(to right, rgba(0, 0, 0, 0.82), rgba(0, 0, 0, 0.82), rgba(0, 0, 0, 0.81), rgba(0, 0, 0, 0.81), rgba(0, 0, 0, 0.80));
 }
 
 .primary{
@@ -65,7 +66,7 @@ a{
 .main_section{
     width: 100%;
     min-height: 100vh;
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.82), rgba(0, 0, 0, 0.82), rgba(0, 0, 0, 0.81), rgba(0, 0, 0, 0.81), rgba(0, 0, 0, 0.80)), url('./img/bg.jpg');
+    background-image: var(--img-gradient), url('./img/bg.jpg');
     background-position: center top;
     background-repeat: no-repeat;
     background-size: cover;
@@ -114,7 +115,9 @@ a{
     border-right: 0;
     color: var(--secondary);
 }
-.search_section input:focus, .search_section input:active:focus, .search_section input.active:focus{
+.search_section input:focus, 
+.search_section input:active:focus, 
+.search_section input.active:focus{
     outline: none;
     box-shadow: none;
     background: none;
@@ -262,7 +265,9 @@ a{
     border-right: 0;
     border-bottom: 1px solid transparent;
 }
-.prefix_icon_input input:focus, .prefix_icon_input input:active:focus, .prefix_icon_input input.active:focus{
+.prefix_icon_input input:focus, 
+.prefix_icon_input input:active:focus, 
+.prefix_icon_input input.active:focus{
     outline: none;
     box-shadow: none;
     background: none;
