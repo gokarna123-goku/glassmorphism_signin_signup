@@ -1,5 +1,21 @@
 ﻿# glassmorphism_signin_signup
  
+ ### Requirements
+ > Bootstrap 5.1.3 CSS & Bundle.Js CDN Link (** Grabe the starter template code ** Link is: <a href="https://getbootstrap.com/docs/5.1/getting-started/introduction/" target="_blank">Click Here</a>)
+<br />
+
+
+ > Font Awesome CDN Link (  Link is: <a href="https://fontawesome.com/icons" target="_blank">Click Here</a> )
+ <br />
+
+
+ > JQuery CDN Link ( ** direct copy and paste it into your head section **  Link is: " <script src="https://code.jquery.com/jquery-3.6.4.min.js"
+        integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" crossorigin="anonymous"></script> ")
+ <br />
+
+
+ 
+ 
  <h5>Sign In Page</h5> <br />
  
  
