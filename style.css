@@ -311,4 +311,68 @@ a{
     text-decoration: underline;
 }
 
+
+
+/* Make an responsive for mobile and tablet */
+@media screen and (max-width: 768px) {
+    .authentication_section{
+        flex-wrap: wrap;
+        gap: 1.3rem;
+    }
+    .info_section{
+        width: 100%;
+    }
+    .form_section{
+        width: 100%;
+    }
+}
+@media screen and (max-width: 478px) {
+    .authentication_section{
+        flex-wrap: wrap;
+        gap: 1.3rem;
+    }
+    .info_section{
+        width: 100%;
+    }
+    .form_section{
+        width: 100%;
+    }
+    .title {
+        font-size: 1.5rem;
+        line-height: 2.25rem;
+    }
+    .nav-pills .nav-link{
+        width: 120px;
+    }
+}
+@media screen and (max-width: 380px) {
+    .authentication_section{
+        flex-wrap: wrap;
+        gap: 1.3rem;
+    }
+    .info_section{
+        width: 100%;
+    }
+    .form_section{
+        width: 100%;
+    }
+    .greeting_title {
+        font-size: 0.9rem;
+    }
+    .title {
+        font-size: 1.0rem;
+        line-height: 1.5rem;
+        letter-spacing: 0;
+    }
+    .desc {
+        font-size: 0.88rem;
+        letter-spacing: 0.0;
+    }
+    .nav-pills .nav-link{
+        width: 100px;
+    }
+}
+
+
+
 /* End */
