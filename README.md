@@ -22,7 +22,7 @@
  ![login](https://user-images.githubusercontent.com/70308228/227698222-41c87d0e-cd64-4ee2-8cf5-be533d5e18be.png)
 
 
- <h5>Sign Up Page</h5> <br />
+ <h5>Sign Up Page</h5> <br /> 
  
  
  
