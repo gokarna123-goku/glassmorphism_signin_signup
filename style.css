@@ -66,7 +66,7 @@ a{
 .main_section{
     width: 100%;
     min-height: 100vh;
-    background-image: var(--img-gradient), url('./img/bg.jpg');
+    background-image: var(--img-gradient), url('https://cdn.pixabay.com/photo/2023/03/30/12/21/ai-generated-7887641_960_720.jpg');
     background-position: center top;
     background-repeat: no-repeat;
     background-size: cover;
@@ -78,8 +78,8 @@ a{
     height: auto;
     border-radius: 0px;
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.9);
-    backdrop-filter: blur(1.3px);
-    -webkit-backdrop-filter: blur(1.3px);
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
     border-bottom: 1px solid rgba(255, 255, 255, 0.11);
     z-index: 999;
 }
