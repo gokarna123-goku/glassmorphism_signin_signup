@@ -78,8 +78,8 @@ a{
     height: auto;
     border-radius: 0px;
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.9);
-    backdrop-filter: blur(3px);
-    -webkit-backdrop-filter: blur(3px);
+    backdrop-filter: blur(1.3px);
+    -webkit-backdrop-filter: blur(1.3px);
     border-bottom: 1px solid rgba(255, 255, 255, 0.11);
     z-index: 999;
 }
@@ -149,8 +149,8 @@ a{
     background: rgba(255, 255, 255, 0.01);
     border-radius: 0px;
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-    backdrop-filter: blur(1.2px);
-    -webkit-backdrop-filter: blur(1.2px);
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
     border: 1px solid rgba(255, 255, 255, 0.21);
     transition: 0.55s ease-out;
 }
