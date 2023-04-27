@@ -149,8 +149,8 @@ a{
     background: rgba(255, 255, 255, 0.01);
     border-radius: 0px;
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-    backdrop-filter: blur(3px);
-    -webkit-backdrop-filter: blur(3px);
+    backdrop-filter: blur(3.9px);
+    -webkit-backdrop-filter: blur(3.9px);
     border: 1px solid rgba(255, 255, 255, 0.21);
     transition: 0.55s ease-out;
 }
@@ -158,8 +158,8 @@ a{
     background: rgba(255, 255, 255, 0.01);
     border-radius: 0px;
     box-shadow: 0 4px 40px rgba(0, 0, 0, 0.5);
-    backdrop-filter: blur(1.2px);
-    -webkit-backdrop-filter: blur(1.2px);
+    backdrop-filter: blur(10.2px);
+    -webkit-backdrop-filter: blur(10.2px);
     border: 1px solid rgba(255, 255, 255, 0.44);
 }
 
@@ -222,9 +222,9 @@ a{
     width: 49%;
     height: 100%;
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.0999);
-    backdrop-filter: blur(10.8px);
-    -webkit-backdrop-filter: blur(10.8px);
-    border: 1px solid rgba(255, 255, 255, 0.02);
+    backdrop-filter: blur(20.8px);
+    -webkit-backdrop-filter: blur(20.8px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
 }
 .toggle_buttons{
     width: 100%;
